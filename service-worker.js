@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HackathonHERE/precache-manifest.84c7d3591a86619e6f73c204dbe66b52.js"
+  "/HackathonHERE/precache-manifest.aa286467dee938f9402f4955d82219f6.js"
 );
 
 workbox.clientsClaim();
