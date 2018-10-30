@@ -1,19 +1,19 @@
 {
   "main.css": "/HackathonHERE/static/css/main.a40a18c4.chunk.css",
-  "main.js": "/HackathonHERE/static/js/main.803fb003.chunk.js",
-  "main.js.map": "/HackathonHERE/static/js/main.803fb003.chunk.js.map",
+  "main.js": "/HackathonHERE/static/js/main.d9d28b48.chunk.js",
+  "main.js.map": "/HackathonHERE/static/js/main.d9d28b48.chunk.js.map",
   "static/css/1.403a9f21.chunk.css": "/HackathonHERE/static/css/1.403a9f21.chunk.css",
   "static/js/1.4769a7df.chunk.js": "/HackathonHERE/static/js/1.4769a7df.chunk.js",
   "static/js/1.4769a7df.chunk.js.map": "/HackathonHERE/static/js/1.4769a7df.chunk.js.map",
   "runtime~main.js": "/HackathonHERE/static/js/runtime~main.6d195fd6.js",
   "runtime~main.js.map": "/HackathonHERE/static/js/runtime~main.6d195fd6.js.map",
-  "static/media/mdb.css": "/HackathonHERE/static/media/Roboto-Medium.894a2ede.ttf",
+  "static/media/mdb.css": "/HackathonHERE/static/media/Roboto-Light.46e48ce0.ttf",
   "static/media/bus.jpg": "/HackathonHERE/static/media/bus.938b52e7.jpg",
   "static/media/font-awesome.min.css": "/HackathonHERE/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/bus.png": "/HackathonHERE/static/media/bus.96424215.png",
   "static/css/main.a40a18c4.chunk.css.map": "/HackathonHERE/static/css/main.a40a18c4.chunk.css.map",
   "static/css/1.403a9f21.chunk.css.map": "/HackathonHERE/static/css/1.403a9f21.chunk.css.map",
   "index.html": "/HackathonHERE/index.html",
-  "precache-manifest.9f3b7c2f705c0b929978e9319ac7e49c.js": "/HackathonHERE/precache-manifest.9f3b7c2f705c0b929978e9319ac7e49c.js",
+  "precache-manifest.b91cb3d2d89f04e94e495a0e75f1f852.js": "/HackathonHERE/precache-manifest.b91cb3d2d89f04e94e495a0e75f1f852.js",
   "service-worker.js": "/HackathonHERE/service-worker.js"
 }
